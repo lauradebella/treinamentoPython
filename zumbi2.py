@@ -1,3 +1,5 @@
+#lendo entradas
+
 nome = raw_input('Entre com o nome : ')
 print (nome)
 

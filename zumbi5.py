@@ -1,3 +1,5 @@
+#calcula multa a partir da velocidade
+
 v = int(raw_input('Insira a velocidade do veiculo : '))
 if v>110:
 	v-=110;

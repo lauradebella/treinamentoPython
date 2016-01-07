@@ -1,4 +1,4 @@
-#tabuada 
+#tabuada ate determinado elemento
 
 t=1
 n = int(raw_input("Insira a tabuada maxima: "))

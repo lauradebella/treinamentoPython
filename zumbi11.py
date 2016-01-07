@@ -1,4 +1,4 @@
-#euclides
+#maximo divisor comum - euclides
 
 n1 = int(input("insira o primeiro numero : "))
 n2 = int(input("Insira o segundo numero : "))

@@ -1,4 +1,4 @@
-#contador de consoantes
+#contador de consoantes em um conjunto de letras
 
 p = []
 i = 1

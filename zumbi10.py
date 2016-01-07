@@ -1,3 +1,5 @@
+#fibonatti
+
 n = int(raw_input("insira o n:  "))
 
 a, b = 1,1
